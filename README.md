@@ -1,3 +1,2 @@
 # -SUPER-STORE-SALES-DASHBOARD[Sales dashbode.pdf](https://github.com/ShamTange/-SUPER-STORE-SALES-DASHBOARD/files/11587643/Sales.dashbode.pdf)
-[Sales dashbode.pdf](https://github.com/ShamTange/-SUPER-STORE-SALES-DASHBOARD/files/11587645/Sales.dashbode.pdf)
-lo
+![Screenshot (240)](https://github.com/ShamTange/-SUPER-STORE-SALES-DASHBOARD/assets/101647764/9c69aef3-e4eb-4dfb-bb69-ff9cf2bf869c)
